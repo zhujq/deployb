@@ -1,0 +1,2 @@
+FROM zhujq/bbb
+EXPOSE 8080
